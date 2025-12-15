@@ -1,6 +1,5 @@
-
 ----
-voornaam: obida
-achternaam: pizza
-drank: cola
-eten: 
+voornaam: obaida
+achternaam: safi
+drank: water
+eten: pizza
