@@ -4,14 +4,15 @@
 
 import math
 
-def kubus_vol(m):
-    return m ** 3
+def rechthoek_oppervlakte(lengte, breedte):
+    return lengte * breedte
 
 def bol_vol(r):
     return (4/3) * math.pi * (r ** 3)
 
-zijde = 5
+lengte = 4
+breedte = 5
 radius = 4
 
-print(kubus_vol(zijde))
+print(rechthoek_oppervlakte(lengte, breedte))
 print(bol_vol(radius))
